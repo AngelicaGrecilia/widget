@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Widget.NewWidget.AppWidget.Container" parent="android:Widget">
+        <item name="android:clipToOutline">true</item>
+    </style>
+</resources>
